@@ -295,7 +295,7 @@ var thirteenStrings = [
     "treispe", // Romanian
     "тринадцать", // Russian (cyrillic)
     "ⱅⱃⰺⱀⰰⰴⱌⰰⱅⱐ", // Russian (glagolitic)
-    "тринаест", // Serbian (cyrillic)
+    "тринаест", // Serbian cyrillic
     "trinásť", // Slovak
     "trinajst", // Slovenian
     "trece", // Spanish
